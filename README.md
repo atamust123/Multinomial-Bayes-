@@ -1,2 +1,2 @@
-# Multinomial-Bayes-
-Sentiment Analysis with Naive Bayes (Bag of Words)
+# Text Analysis using BoW-
+Sentiment Analysis with Multinomial Naive Bayes (Bag of Words)
